@@ -1,0 +1,43 @@
+.btn-primary {color:#fff;background-color:#09adc8;border-color:#09adc8}
+.btn-success{color:#fff;background-color:#09adc8;border-color:#09adc8}
+
+.btn-primary :hover {
+    color: #fff;
+    background-color: #0898b0;
+    border-color: #0898b0;
+}
+.btn-success:hover {
+    color: #fff;
+    background-color: #0898b0;
+    border-color: #0898b0;
+}
+
+.btn-danger{color:#fff;background-color:#f3702a;border-color:#f3702a}
+.bg-secondary {
+    background-color: #68b4c1 !important;
+}
+.btn-danger:hover{color:#fff;background-color:#dc6628;border-color:#dc6628}
+
+.text-success {
+    color: #2ad86c !important;
+}
+
+.text-edit {
+    color: #09adc8 !important;
+}
+
+.text-danger {
+    color: #f3702a !important;
+}
+
+.alert-secondary {
+    color: #464a4e;
+    background-color: #e7e8ea;
+    border-color: #dddfe2;
+}
+
+.alert-success{color:#155724;background-color:#d4edda;border-color:#c3e6cb}
+
+thead {color: #09adc8}
+
+ i {margin-left: 10px;}
